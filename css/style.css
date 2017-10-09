@@ -45,7 +45,7 @@ a, input[type="submit"],
 	vertical-align: middle;
 }
 
-.ba-column-people a:hover {
+.ba-search-list a:hover {
 	color: #ec5a62;
 	background-color: #e4e4e5;
 }
@@ -73,6 +73,7 @@ h3 {
 
 .ba-search-list li:hover {
 	background-color: rgba(118,117,128,0.1);
+	color: #ec5a62;
 }
 
 .ba-search-columns a {
