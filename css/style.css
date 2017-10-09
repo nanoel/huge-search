@@ -34,6 +34,11 @@ a, input[type="submit"],
 	display: inline-block;
 }
 
+.ba-search-form {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
 .ba-search-form [type="submit"] {
 	display: inline-block;
 	position: absolute;
@@ -48,6 +53,10 @@ a, input[type="submit"],
 .ba-search-list a:hover {
 	color: #ec5a62;
 	background-color: #e4e4e5;
+}
+
+.ba-search-columns a {
+	color: #c2c2c2
 }
 
 .people img {
@@ -71,13 +80,10 @@ h3 {
 	border-radius: 5px;
 }
 
+
 .ba-search-list li:hover {
 	background-color: rgba(118,117,128,0.1);
 	color: #ec5a62;
-}
-
-.ba-search-columns a {
-	color: #acacae;
 }
 
 .popular, .recent img {
